@@ -25,4 +25,4 @@ This project replicates the visual design of the Amazon website — including th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/amazon-ui-clone.git
+   git clone https://github.com/GitAkash108/Amazon-UI
