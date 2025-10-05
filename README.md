@@ -20,9 +20,3 @@ This project replicates the visual design of the Amazon website — including th
 - **CSS3 (Flexbox, Grid, Media Queries)**  
 
 ---
-
-## ⚙️ How to View
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/GitAkash108/Amazon-UI
